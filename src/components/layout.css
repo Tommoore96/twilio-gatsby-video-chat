@@ -91,7 +91,7 @@ h1 {
   display: grid;
   grid-gap: 1.5rem;
   grid-template-columns: repeat(3, 1fr);
-  max-width: 90vw;
+  min-width: 90vw;
   position: relative;
 }
 
